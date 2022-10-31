@@ -7,3 +7,4 @@ Install dependencies with the command:
 
 Start the server with the command:
 `npm run start-dev`
+npm i https://github.com/KadenNwarachePortfolio
